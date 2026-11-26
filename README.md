@@ -1,6 +1,6 @@
 # MultiBot Dispatch Harness
 
-**An Agent Dispatch Harness Framework Built on DeepSeek Harness's Official SuperAgent Concept — Purpose-Built for Always-On Multi-Bot Runtimes like OpenBot, Grok Bot, and OpenManusBot**
+**An Agent Dispatch Harness Framework Built on DeepSeek Harness's Official SuperAgent Concept — Purpose-Built for OpenBot, Grok Bot, and OpenManusBot to Solve Human Attention Fragmentation (Talk to One Primary Agent Only)**
 
 [简体中文](./README.zh-CN.md) | **English**
 
