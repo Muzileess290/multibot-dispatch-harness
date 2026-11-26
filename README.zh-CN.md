@@ -1,6 +1,6 @@
 # MultiBot Dispatch Harness（多 Bot 派发 Harness 框架）
 
-**基于 DeepSeek Harness 官方 SuperAgent 概念打造的 Agent 派发 Harness 框架**
+**基于 DeepSeek Harness 官方 SuperAgent 概念打造的 Agent 派发 Harness 框架——专为 OpenBot、Grok Bot、OpenManusBot 等常驻多 Bot 工具设计**
 
 **简体中文** | [English](./README.md)
 
